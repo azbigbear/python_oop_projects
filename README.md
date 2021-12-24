@@ -1,2 +1,2 @@
-# udemy_course_projects
-This repository contains projects that I have completed while taking courses on Udemy.
+# Advanced Python: Python OOP with 10 Real-World Programs. Instructor Ardit Sulce on Udemy.
+This repository contains projects that I completed while taking this Python course on Udemy.
